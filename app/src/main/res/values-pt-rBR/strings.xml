@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor De Temperatura</string>
+    <string name="temperatura">Digite uma temperatura</string>
+    <string name="resultado">Eu sou o resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+</resources>

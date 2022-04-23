@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Change Temper</string>
+    <string name="temperatura">Type a temper</string>
+    <string name="resultado">I am a result</string>
+    <string name="calcular">Calculate</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+</resources>
